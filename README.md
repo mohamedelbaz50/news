@@ -1,4 +1,4 @@
-# 🛒 Moshtriat
+# 🧾 News App
 
 <div align="start">
      <a href="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
@@ -24,17 +24,16 @@
 
 ## 🚀 Getting Started
 
-- Moshtriat is a simple e_commerce app .
-- Our App allow you to make account.
-- Our app allow you to see products and but it in favorite.
+- News is a simple app to show new news  .
+- user can allow you to search about any news.
+- news is Divided by category.
 
 ## 🤳 Screens
 
-- **Splash Screen:** Wait for 3 seconds then navigate to `On-Boarding Screens`. 
-- **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
-- **Home Screen:** The User can discover all products.
-- **Profile Screen :**  The User can see his profile and edit it .
-- **Search Screen :**  The User can search about any product .
+- **Splash Screen:** Wait for 3 seconds then navigate to `Home Screen`. 
+- **Home Screen:** the user can choose news categoty
+- **Search Screen:** The User can search about any news.
+
 
 <hr>
 <h3>
@@ -66,10 +65,11 @@
  smooth_page_indicator: 
   flutter_bloc: 
   dio: 
-  conditional_builder_null_safety: 
-  fluttertoast: 
-  shared_preferences: 
-  carousel_slider: 
+  url_launcher:
+  google_fonts:
+  flutter_native_splash:
+  flutter_launcher_icons:
+  
 ```
 
 ## ☢️ Usage
