@@ -51,9 +51,11 @@
 
 
 ## 📱 UI
-![Untitled design (2)](https://github.com/mohamedelbaz50/shop_app/assets/71174933/3536f510-5c8d-49a8-a3f8-d2c5ce5013a6)
-![3](https://github.com/mohamedelbaz50/shop_app/assets/71174933/1273af6c-5184-416e-ae3e-6f6208e43c75)
-![Untitled design (3)](https://github.com/mohamedelbaz50/shop_app/assets/71174933/50a0b359-d056-41e8-8610-c2eff4bc1007)
+
+![WhatsApp Image 2024-04-03 at 18 06 09_d24aeab7](https://github.com/mohamedelbaz50/news/assets/71174933/5ee133b6-89f1-4e0f-8f21-17bb0bff7cf0)
+![WhatsApp Image 2024-04-03 at 18 06 08_cc242db3](https://github.com/mohamedelbaz50/news/assets/71174933/75ec6205-297c-46e2-a3ef-e3f8a2ae4fd4)
+![WhatsApp Image 2024-04-03 at 18 06 08_4966c2fe](https://github.com/mohamedelbaz50/news/assets/71174933/023a491e-21b4-4a63-bb15-581e4435802b)
+
 
 
 
